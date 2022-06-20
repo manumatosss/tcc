@@ -1,0 +1,87 @@
+body {
+    
+    background-color: #c2bb9d;
+    text-align: center;
+    font-family:"didot" , serif;
+    font-style: normal;
+    margin: 5%;
+     }
+     header{
+        background-image: url(img/fundo.jpg);
+        background-size:90%;
+        background-repeat:round;
+         padding:60px;
+         margin-top: -10%;
+         margin-left: -10%;
+         margin-right: -15%;
+         
+     }
+         
+     h1 {
+    text-align: center;
+     color: #29251c;
+     }
+ nav{
+     display: flex;
+     margin-left: 40%;    
+ }
+ p{
+     text-align: justify;
+     text-indent: 5%;  
+ }
+ button{
+    width: 150px;
+     margin-right: 80%;
+     margin-top: 3%;
+    background-color: burlywood;
+ }
+
+ h1{
+    font-family: 'Monoton', cursive;
+    font-size: 30pt;
+    color: rgb(255, 0, 0);
+    opacity: 0.5;
+    text-shadow: 0px -10px rgb(255, 196, 0);
+   }
+     
+
+ a{
+     text-decoration: none;
+     font-size: 15pt;
+       
+ }
+ section{
+     
+     background-color: aliceblue;
+     width:1180px;
+     opacity: 60%;
+     padding: 20px;
+ 
+ }
+ section:hover{
+     opacity: 100%;
+ }
+ ul {
+    list-style-type: none;
+    padding: 0px;
+    overflow: hidden;
+    background-color: oldlace;
+  }
+ 
+  li {
+    float: left;
+    font-size: 10pt;
+
+  }
+  li .gen {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 9px 100px;
+   
+  }
+  .gen{
+      width: 60px;
+      height: 50px;
+      border-radius: 100%;
+  }

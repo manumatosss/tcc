@@ -1,0 +1,50 @@
+body {
+    
+    background-color: #c2bb9d;
+    text-align: center;
+    font-style:Didot, serif ;
+     }
+h1{
+    font-size: 35pt;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+    text-shadow: -2px -2px 0px rgba(118, 114, 237, 0.241),
+                4px 4px 0px #888,
+                7px 7px 0px #888;
+}
+     img {
+        height: 1000px;
+        width: 250px;
+     }
+     img:hover{
+        -moz-box-shadow: 0 0 20px rgba(238, 184, 48, 0.523);
+        -webkit-box-shadow: 0 0 20px rgba(238, 184, 48, 0.523);
+         box-shadow: 0 0 20px rgba(238, 184, 48, 0.523);
+     }
+     .gif{
+         width: 40px;
+         height: 30px;
+     }
+     div{
+         background-color:rgb(240, 255, 255);
+         background-attachment: fixed;
+         background-position: center;
+         height: 5550px;
+         width: 70%;
+         text-align: center;
+         vertical-align: top;
+         margin-top: 10px;
+         margin: 45px;
+         padding: 10%;
+         padding-top: 5%;
+         padding-bottom: 1%;
+         font-size: 15pt;
+     }
+     fieldset{
+         height: 1070px;
+         width: 400px;
+         padding: 0%;
+         border:none;
+         margin-left: 25%;     
+     }
+     
